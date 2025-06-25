@@ -1,0 +1,45 @@
+
+        body {
+            background-image: url(/hhh.jpg.jpg);
+            background-repeat: no-repeat;
+            background-position: left bottom;
+            background-attachment: scroll;
+            background-size: 250px 400px;
+        }
+
+        /* Heading Styles */
+        h1 {
+            color: aqua;
+            padding-left: 20px;
+        }
+
+        #headings {
+            /* Add custom styles if needed */
+        }
+
+        .head {
+            color: aqua;
+        }
+
+        #head2 {
+            background-color: blue;
+            border: 2px solid #000000;
+        }
+
+        /* Paragraph Styling */
+        p {
+            background-color: rgb(136, 196, 33);
+            border: 1px solid rgb(209, 42, 42);
+            opacity: 0.9;
+            margin: inherit;
+        }
+
+        /* Div Styling */
+        div {
+            border-style: solid dashed double;
+            border-width: 50px;
+            border-radius: 5%;
+            height: 500px;
+            margin: 100px;
+        }
+    

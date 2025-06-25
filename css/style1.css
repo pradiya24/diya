@@ -1,0 +1,8 @@
+body{
+    background-image: url(/css/images/humming\ bird.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: scroll;
+    background-size:cover ;
+    background-size: 250px 400p;
+} 
